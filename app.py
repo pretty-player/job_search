@@ -14,4 +14,4 @@ if st.button("Search Jobs"):
             st.success(f"Found {len(results)} matches!")
             st.dataframe(results)
         else:
-            st.warning("No jobs found or API limit reached.")
+            st.warning("*No jobs found or API limit reached*")
