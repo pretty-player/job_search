@@ -16,7 +16,7 @@ A real-time job search tool built with **Python** and **Streamlit** that aggrega
 
 ## ⚙️ Setup Instructions
 1. Clone the repository:
-   `git clone https://github.com/your-username/job-search-dashboard.git`
+   `git clone https://github.com/pretty-player/job_search.git`
 2. Create a virtual environment:
    `python -m venv venv`
 3. Install dependencies:
