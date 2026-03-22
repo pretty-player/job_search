@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
+# Get the API key from environment variable
 my_key = os.getenv("RAPIDAPI_KEY")
 
 

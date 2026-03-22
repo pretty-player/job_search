@@ -2,7 +2,7 @@ import streamlit as st
 from rapid_jobs import fetch_rapid_jobs
 
 st.set_page_config(layout="wide")
-st.title("👨‍💻 Real-Time Developer Job Board")
+st.title("Real-Time Developer Job Board")
 
 role = st.text_input("What role are you looking for?", "Software Engineer")
 loc = st.text_input("Location", "Chennai")
